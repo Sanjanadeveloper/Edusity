@@ -80,6 +80,10 @@ A beautiful, responsive single-page website for an educational institution built
    npm run preview
    ```
 
+## 🌐 Live Demo
+
+Visit the live website: [Edusity Live Demo](https://edusity-plum-iota.vercel.app/)
+
 ## 🎨 Project Structure
 
 ```
